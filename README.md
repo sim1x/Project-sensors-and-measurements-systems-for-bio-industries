@@ -1,2 +1,2 @@
 # Project-sensors-and-measurements-systems-for-bio-industries
-Developed code for project consisting of simulation of a leaky integrate and fire neuron (LIF) and exponential integrate and fire neuron (EIF)
+Developed code for project consisting of simulation of a leaky integrate and fire neuron (LIF) and exponential integrate and fire neuron (EIF). In this repo you will find also the .asc file which is an LTspice file that contains the hackaday circuit to implement a real LIF circuit, even though it has still to be completed to fully work correctly.
